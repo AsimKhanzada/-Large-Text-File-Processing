@@ -1,0 +1,111 @@
+Feedback,Sentiment,Accuracy (%)
+Messages,Negative,0.0
+"""Great service! The staff was very helpful and the product quality is excellent.""",Positive,90.39
+"""I had a bad experience with the customer support. The response was poor.""",Negative,-59.94
+"""The new update is excellent and improves usability.""",Positive,75.79
+"""Received a defective product. The quality is poor and the service was bad.""",Negative,-85.91
+"""Good value for money. I'm satisfied with the purchase.""",Positive,79.64
+"""Excellent customer service and fast delivery.""",Positive,57.19
+"""The product is good, but the delivery took too long.""",Negative,23.82
+"""Very bad experience. I will not shop here again.""",Negative,-58.49
+"""Good quality product and excellent customer support.""",Positive,85.19
+"""The service was poor and the product did not meet my expectations.""",Negative,-47.67
+"""The service was good and the staff was excellent.""",Positive,76.5
+"""The product quality was poor.""",Negative,-47.67
+"""I had a good experience overall.""",Positive,44.04
+"""The delivery time was bad and the packaging was poor.""",Negative,-76.5
+"""The support team was excellent and very helpful.""",Positive,85.88
+"""The support team was excellent and very helpful.""",Positive,85.88
+"""The interface is good, but the performance is poor.""",Negative,-49.39
+"""My experience with the customer service was bad.""",Negative,-54.23
+"""I received excellent assistance from the support staff.""",Positive,75.06
+"""The quality of the product was good, but the packaging was bad.""",Negative,-58.59
+"""The transaction process was excellent, and I am very satisfied.""",Positive,77.78
+"""The website design is good, but the navigation is poor.""",Negative,-49.39
+"""The response time from the support team was excellent.""",Positive,75.06
+"""The delivery was on time and the packaging was good.""",Positive,44.04
+"""I had a poor experience with the customer support.""",Negative,-10.27
+"""The product met my expectations and the quality was good.""",Positive,44.04
+"""The staff was good, but the wait time was poor.""",Negative,-49.39
+"""The app interface is excellent and user-friendly.""",Positive,57.19
+"""I had a bad experience with the return process.""",Negative,-54.23
+"""The support team was good and resolved my issue quickly.""",Positive,74.3
+"""The product quality was excellent and I am very happy.""",Positive,82.68
+"""The delivery time was poor, but the product quality is good.""",Positive,42.15
+"""I had a good experience with the customer service.""",Positive,44.04
+"""The transaction was smooth and the service was excellent.""",Positive,57.19
+"""The product was bad and I had to return it.""",Negative,-54.23
+"""The packaging was excellent and the product was undamaged.""",Positive,57.19
+"""The support was bad and took too long to respond.""",Negative,-20.23
+"""I had a poor experience with the online ordering system.""",Negative,-47.67
+"""The product quality is good, but the delivery was bad.""",Negative,-58.59
+"""The staff was excellent and very professional.""",Positive,57.19
+"""The user experience on the website is good.""",Positive,44.04
+"""The product quality was excellent and I am very satisfied.""",Positive,77.78
+"""The product quality was good, but the customer service was poor.""",Negative,-49.39
+"""The delivery was bad, but the packaging was good.""",Positive,38.18
+"""The support team was excellent and resolved my issue quickly.""",Positive,79.64
+"""The product was poor and did not meet my expectations.""",Negative,-47.67
+"""The website design is good, but the checkout process is poor.""",Negative,-49.39
+"""The service was excellent and very professional.""",Positive,57.19
+"""The product quality was good, but the shipping was slow.""",Negative,23.82
+"""The customer service was poor and unhelpful.""",Negative,-47.67
+"""The support team was good, but the response time was poor.""",Negative,-32.91
+"""The product was excellent and arrived on time.""",Positive,57.19
+"""The packaging was good and the product was undamaged.""",Positive,44.04
+"""The service was bad and I am very disappointed.""",Negative,-78.41
+"""The product quality was excellent and worth the price.""",Positive,68.08
+"""The delivery was good, but the packaging was poor.""",Negative,-49.39
+"""The customer service was excellent and very helpful.""",Positive,77.78
+"""The support team was good, but the wait time was poor.""",Negative,-32.91
+"""The service was excellent and very professional. The customer service was bad and unresponsive.""",Negative,5.16
+"""The product was good, but the price was too high.""",Negative,23.82
+"""I had an excellent experience with the support team.""",Positive,75.06
+"""The product quality is poor and not as advertised.""",Negative,-47.67
+"""The customer service was good and resolved my issue.""",Positive,55.74
+"""The delivery was bad and delayed by several days.""",Negative,-65.97
+"""The product was excellent and exceeded my expectations.""",Positive,57.19
+"""The support team was good, but the wait time was poor.""",Negative,-32.91
+"""The website interface is good, but the loading time is bad.""",Negative,-58.59
+"""The transaction process was smooth and excellent.""",Positive,57.19
+"""I had a bad experience with the product quality.""",Negative,-54.23
+"""The support was excellent and resolved my issue promptly.""",Positive,79.64
+"""The product quality is good, but the price is high.""",Negative,23.82
+"""The delivery was poor and the package was damaged.""",Negative,-71.84
+"""I had an excellent experience with the customer service.""",Positive,57.19
+"""The product was good and as described.""",Positive,44.04
+"""The staff was excellent and very helpful.""",Positive,77.78
+"""The packaging was poor and the product was damaged.""",Negative,-71.84
+"""The support team was good and assisted me well.""",Positive,77.17
+"""The quality of the product was poor and disappointing.""",Negative,-74.3
+"""I had a good experience with the return process.""",Positive,44.04
+"""The product was excellent and arrived on time.""",Positive,57.19
+"""The customer service was bad and unhelpful.""",Negative,-54.23
+"""The customer service was bad and unhelpful.""",Negative,-54.23
+"""The website design is excellent and very intuitive.""",Positive,57.19
+"""The product was good, but the shipping was slow.""",Negative,23.82
+"""I had a poor experience with the support team.""",Negative,-10.27
+"""The quality of the service was excellent.""",Positive,57.19
+"""The product was poor and not worth the price.""",Negative,-58.12
+"""The delivery was excellent and very fast.""",Positive,57.19
+"""The customer service was good, but the product was bad.""",Negative,-58.59
+"""The support team was excellent and very knowledgeable.""",Positive,75.06
+"""The packaging was good, but the product was damaged.""",Negative,-44.04
+"""I had a good experience with the website.""",Positive,44.04
+"""The delivery time was bad, but the product was good.""",Positive,38.18
+"""The customer service was excellent and very responsive.""",Positive,75.74
+"""The product was bad and I am very disappointed.""",Negative,-78.41
+"""The packaging was poor, but the product was good.""",Positive,42.15
+"""The support was good, but the wait time was too long.""",Positive,42.15
+"""I had an excellent experience with the service.""",Positive,57.19
+"""The product was poor and I had to return it.""",Negative,-47.67
+"""The support team was good and assisted me well.""",Positive,77.17
+"""The quality of the product was good, but the delivery was bad.""",Negative,-58.59
+"""The service was excellent and met my expectations.""",Positive,57.19
+"""The product was good, but the support was poor.""",Negative,9.0
+"""The packaging was excellent and very secure.""",Positive,75.01
+"""The delivery time was poor, but the product quality was good.""",Positive,42.15
+"""The customer service was good and resolved my issue quickly.""",Positive,55.74
+"""The product was bad and I am very unhappy.""",Negative,-76.45
+"""The support team was excellent and very friendly.""",Positive,87.18
+"""The quality of the product was poor and disappointing.",Negative,-74.3
